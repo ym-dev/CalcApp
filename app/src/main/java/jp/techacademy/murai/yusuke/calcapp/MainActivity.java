@@ -68,9 +68,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             intentResult(value);
 
         }
-
-//        Intent intent = new Intent(this, Main2Activity.class);
-//        startActivity(intent);
     }
 
     private void intentResult(double value) {
